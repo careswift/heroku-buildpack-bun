@@ -1,2 +1,6 @@
+api = "0.10"
+
 [buildpack]
 name = "Bun"
+id = "heroku-buildpack-bun"
+version = "1.0.0"
